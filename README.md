@@ -22,7 +22,7 @@ The following variables are permitted:
 - `{htmlurl}`
 - `{xmlurl}`
 
+## Change Log
 
-Version 1.1
-******************
-- Updated plugin to be 2.0 compatible
+- Version 1.1
+	- Updated plugin to be 2.0 compatible
